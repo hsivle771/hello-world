@@ -1,2 +1,2 @@
 # hello-world
-personal tutorial
+Personal sandbox repo for tinkering and learning.
